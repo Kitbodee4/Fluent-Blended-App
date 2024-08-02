@@ -31,20 +31,24 @@ By following this guide, you will learn how to:
 Clone this repository to your local machine:
 
 git clone https://github.com/Kitbodee4/Fluent-Blended-App.git
+
 cd Fluent-Blended-App
 
 Step 2: Set Up Environment Variables
 Edit the setup.sh file to add your private key:
 
 nano setup.sh
+
 Replace your-private-key-here with your actual private key in the following line:
 
 DEPLOYER_PRIVATE_KEY=  PRIVATE_KEY
 
 Step 3: Run the Setup Script
+
 Run the setup script to install dependencies, set up the project, and deploy the contracts:
 
 chmod +x setup.sh
+
 ./setup.sh
 
 Additional Information
