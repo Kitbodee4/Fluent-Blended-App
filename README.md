@@ -30,14 +30,14 @@ By following this guide, you will learn how to:
 ## Step 1: Clone the Repository
 Clone this repository to your local machine:
 
--git clone https://github.com/Kitbodee4/Fluent-Blended-App.git
+- git clone https://github.com/Kitbodee4/Fluent-Blended-App.git
 
--cd Fluent-Blended-App
+- cd Fluent-Blended-App
 
 ## Step 2: Set Up Environment Variables
 Edit the setup.sh file to add your private key:
 
--nano setup.sh
+- nano setup.sh
 
 Replace your-private-key-here with your actual private key in the following line:
 
