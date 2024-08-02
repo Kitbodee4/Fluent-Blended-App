@@ -38,6 +38,7 @@ Edit the setup.sh file to add your private key:
 
 nano setup.sh
 Replace your-private-key-here with your actual private key in the following line:
+
 DEPLOYER_PRIVATE_KEY=  PRIVATE_KEY
 
 Step 3: Run the Setup Script
